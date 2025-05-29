@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome ##
 
-Hello!👋 I'm **Neil Y. Magsumbol**. I am from Laurel, Batangas 
+Hello!👋 I'm **Neil Y. Magsumbol**. I am from Laurel, Batangas.
 Graduated at Batangas State University - JPLPC Malvar with a degree on Bachelor of Science in Information Technology, Major in Business Analytics.
 
 
